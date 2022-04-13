@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
                 indicatorColor: Colors.white,
                 isScrollable: true,
               ),
-              preferredSize: const Size.fromHeight(30),
+              preferredSize: const Size.fromHeight(25),
             ),
           ),
           body: TabBarView(
